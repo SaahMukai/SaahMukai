@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaahMukai
 - 👀 I am making a career transition to the IT area
-- 🌱 I’m learning Algorithms and Java at the University
-- 💞️ I am currently looking to improve my knowledge in software development
+- 🌱 At the moment I’m learning Artificial Inteligence, Machine Learning, SQL and Cloud Computing.
+- 💞️ I am currently looking to improve my knowledge in data analysis and data science
 - 📫 How to reach me: saahmukai.ads.16@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I worked as a veterinarian but I always liked programming and now that I had the opportunity to make a career transition I am loving the IT area
