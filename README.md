@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sabrina Mukai
-- 👀 I am an internship in data analystics at BRLink
+- 👋 Hi, Nice to meet you!
+- 👀 I’m data analystics intern at BRLink
 - 🌱 At the moment I’m learning Artificial Inteligence, Machine Learning, SQL and Cloud Computing. Also I'm improving my skills in Python and AWS Solutions.
 - 💞️ I am currently looking to improve my knowledge in data analysis, data engineering and data science.
 - 📫 How to reach me: saahmukai.ads.16@gmail.com
